@@ -5,6 +5,18 @@
 
 * [x] Add links to GS citations wherever it is missing
 * [ ] Write script to extract the citatons from adsabd.harvard.edu links below.
+    - There are around 500+ citations from absads.harvard.edu site & there could be clashes.
+* [ ] Come up with a classification of papers 
+    * Create a Jupyter notebook to cluster the papers
+
+### Command-line Snippets
+
+```
+gawk '/Citations: [0-9]+, Refere/ {cnt_str=$3;tot_cnt += substr(cnt_str,1,length(cnt_str)-1)}; END {print tot_cnt}' README.md 
+526
+```
+```
+```
 
 ### Papers
 

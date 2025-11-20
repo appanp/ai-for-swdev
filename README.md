@@ -3,29 +3,33 @@
 
 ### TODOs
 
-* [ ] - Add links to GS citations wherever it is missing
-* [ ] - Write script to extract the citatons from adsabd.harvard.edu links below.
+* [x] Add links to GS citations wherever it is missing
+* [ ] Write script to extract the citatons from adsabd.harvard.edu links below.
 
 ### Papers
 
 PDF files of these papers are in folder `~/my_git_repos/ai-for-swdev/papers/` in my Lenovo Thinkpad P16s.
 
 1. [PAT-Agent: Autoformalization for Model Checking](https://ui.adsabs.harvard.edu/abs/2025arXiv250923675Z/abstract)
-    * Citations: 1
-    * References: 11
+    * Citations: 1, References: 11
     * [arxiv link](https://arxiv.org/abs/2509.23675)
+    * [GS citations: 1](https://scholar.google.com/scholar_lookup?arxiv_id=2509.23675)
 1. [Validating Formal Specifications with LLM-generated Test Cases](https://ui.adsabs.harvard.edu/abs/2025arXiv251023350C/abstract)
-    * References: 4
+    * Citations: 0, References: 4
     * [arxiv link](https://arxiv.org/abs/2510.23350)
+    * [GS citations: 0](https://scholar.google.com/scholar_lookup?arxiv_id=2510.23350)
 1. [Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models](https://ui.adsabs.harvard.edu/abs/2023arXiv231006320P/abstract)
     * Citations: 5, References: 8
     * [arxiv link](https://arxiv.org/abs/2310.06320)
+    * [GS citations: 49](https://scholar.google.com/scholar_lookup?arxiv_id=2310.06320)
 1. [Software Testing with Large Language Models: Survey, Landscape, and Vision](https://ui.adsabs.harvard.edu/abs/2023arXiv230707221W/abstract)
     * Citations: 58, References: 76
     * [arxiv link](https://arxiv.org/abs/2307.07221)
+    * [GS citations: 658](https://scholar.google.com/scholar_lookup?arxiv_id=2307.07221)
 1. [Large Language Models for Software Engineering: Survey and Open Problems](https://ui.adsabs.harvard.edu/abs/2023arXiv231003533F/abstract)
     * Citations: 161, References: 120
     * [arxiv link](https://arxiv.org/abs/2310.03533)
+    * [GS citations: 695](https://scholar.google.com/scholar_lookup?arxiv_id=2310.03533)
 1. [Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code](https://ui.adsabs.harvard.edu/abs/2023arXiv231107989Z/abstract)
     * Citations: 77, References: 300
     * [arxiv link](https://arxiv.org/abs/2311.07989)
@@ -66,7 +70,7 @@ PDF files of these papers are in folder `~/my_git_repos/ai-for-swdev/papers/` in
     * Citations: 0, References: 26
     * [arxiv link](https://arxiv.org/abs/2510.10179)
     * [GS citations: 0](https://scholar.google.com/scholar_lookup?arxiv_id=2510.10179)
-1 [You Can REST Now: Automated REST API Documentation and Testing via LLM-Assisted Request Mutations](https://ui.adsabs.harvard.edu/abs/2024arXiv240205102D/abstract)
+1. [You Can REST Now: Automated REST API Documentation and Testing via LLM-Assisted Request Mutations](https://ui.adsabs.harvard.edu/abs/2024arXiv240205102D/abstract)
     * Citations: 8, References: 15
     * [arxiv link](https://arxiv.org/abs/2402.05102)
     * [GS citations: 17](https://scholar.google.com/scholar_lookup?arxiv_id=2402.05102)

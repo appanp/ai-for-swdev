@@ -1,0 +1,3697 @@
+LLM Agents for Generating Microservice-based Applications: how complex is your specification?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250820119Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250820119Y/EPRINT_PDF
+References: 13
+------
+Improving Examples in Web API Specifications using Iterated-Calls In-Context Learning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250407250J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250407250J/EPRINT_PDF
+Citations: 1
+References: 11
+------
+LogiAgent: Automated Logical Testing for REST Systems with LLM-Based Multi-Agents
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250315079Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250315079Z/EPRINT_PDF
+Citations: 4
+References: 2
+------
+Automating a Complete Software Test Process Using LLMs: An Automotive Case Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250204008W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250204008W/EPRINT_PDF
+Citations: 4
+References: 7
+------
+LlamaRestTest: Effective REST API Testing with Small Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250108598K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250108598K/EPRINT_PDF
+Citations: 7
+References: 16
+------
+A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241107098K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241107098K/EPRINT_PDF
+Citations: 9
+References: 12
+------
+REST API Testing in DevOps: A Study on an Evolving Healthcare IoT Application
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241012547S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241012547S/EPRINT_PDF
+Citations: 1
+References: 2
+------
+APITestGenie: Automated API Test Generation through Generative AI
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240903838P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240903838P/EPRINT_PDF
+Citations: 6
+References: 1
+------
+Assertion-Aware Test Code Summarization with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251106227H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251106227H/EPRINT_PDF
+References: 15
+------
+Assertion Messages with Large Language Models (LLMs) for Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250919673A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250919673A/EPRINT_PDF
+Citations: 1
+References: 14
+------
+LibRec: Benchmarking Retrieval-Augmented LLMs for Library Migration Recommendations
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250809791H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250809791H/EPRINT_PDF
+References: 10
+------
+Beyond Surface Similarity: Evaluating LLM-Based Test Refactorings with Structural and Semantic Awareness
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250606767O/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250606767O/EPRINT_PDF
+References: 7
+------
+Rethinking Cognitive Complexity for Unit Tests: Toward a Readability-Aware Metric Grounded in Developer Perception
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250606764O/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250606764O/EPRINT_PDF
+References: 6
+------
+Mutation-Guided Unit Test Generation with a Large Language Model
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250602954W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250602954W/EPRINT_PDF
+References: 28
+------
+Generating and Understanding Tests via Path-Aware Symbolic Execution with LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250619287W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250619287W/EPRINT_PDF
+Citations: 1
+References: 10
+------
+Large Language Models for Unit Testing: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250615227Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250615227Z/EPRINT_PDF
+Citations: 3
+References: 48
+------
+Using LLMs in Generating Design Rationale for Software Architecture Decisions
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250420781Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250420781Z/EPRINT_PDF
+References: 18
+------
+A Multi-agent Onboarding Assistant based on Large Language Models, Retrieval Augmented Generation, and Chain-of-Thought
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250323421C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250323421C/EPRINT_PDF
+References: 7
+------
+Opportunities and Challenges of Foundation Models in Industrial Manufacturing
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025IEEEA..1338745A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025IEEEA..1338745A/PUB_HTML
+References: 95
+------
+Advancing Bug Detection in Fastjson2 with Large Language Models Driven Unit Test Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241009414Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241009414Z/EPRINT_PDF
+Citations: 5
+References: 12
+------
+CoSQA+: Pioneering the Multi-Choice Code Search Benchmark with Test-Driven Agents
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240611589G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240611589G/EPRINT_PDF
+Citations: 8
+References: 22
+------
+A Survey on Large Language Models for Software Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231215223Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231215223Z/EPRINT_PDF
+Citations: 68
+References: 495
+------
+Requirements-Driven Automated Software Testing: A Systematic Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250218694W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250218694W/EPRINT_PDF
+Citations: 3
+References: 28
+------
+On the Evaluation of Large Language Models in Unit Test Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240618181Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240618181Y/EPRINT_PDF
+Citations: 17
+References: 34
+------
+Quantum Software Engineering: Roadmap and Challenges Ahead
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240406825M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240406825M/EPRINT_PDF
+Citations: 17
+References: 58
+------
+MalCVE: Malware Detection and CVE Association Using Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251015567C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251015567C/EPRINT_PDF
+References: 5
+------
+Analyzing the Instability of Large Language Models in Automated Bug Injection and Correction
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250906429B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250906429B/EPRINT_PDF
+References: 5
+------
+Ensembling Large Language Models for Code Vulnerability Detection: An Empirical Evaluation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250912629S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250912629S/EPRINT_PDF
+Citations: 1
+References: 21
+------
+MAVUL: Multi-Agent Vulnerability Detection via Contextual Reasoning and Interactive Refinement
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251000317L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251000317L/EPRINT_PDF
+References: 1
+------
+Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250520186A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250520186A/EPRINT_PDF
+References: 17
+------
+Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250507372D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250507372D/EPRINT_PDF
+References: 31
+------
+Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250508903H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250508903H/EPRINT_PDF
+Citations: 9
+References: 145
+------
+VulBinLLM: LLM-powered Vulnerability Detection for Stripped Binaries
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250522010H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250522010H/EPRINT_PDF
+Citations: 4
+References: 31
+------
+LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250207049S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250207049S/EPRINT_PDF
+Citations: 13
+References: 42
+------
+CVE-LLM : Ontology-Assisted Automatic Vulnerability Evaluation Using Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250215932G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250215932G/EPRINT_PDF
+Citations: 1
+References: 6
+------
+Towards Explainable Vulnerability Detection With Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ITSEn..51.2957M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ITSEn..51.2957M/PUB_HTML
+References: 22
+------
+LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250103446F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250103446F/EPRINT_PDF
+Citations: 6
+References: 16
+------
+Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250114983Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250114983Y/EPRINT_PDF
+Citations: 3
+References: 23
+------
+SoK: Towards Effective Automated Vulnerability Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250118820L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250118820L/EPRINT_PDF
+Citations: 4
+References: 21
+------
+Finetuning Large Language Models for Vulnerability Detection
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025IEEEA..1338889S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025IEEEA..1338889S/PUB_HTML
+Citations: 31
+References: 5
+------
+SoK: On Closing the Applicability Gap in Automated Vulnerability Detection
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241211194S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241211194S/EPRINT_PDF
+Citations: 2
+References: 27
+------
+Generating refactored code accurately using reinforcement learning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241218035P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241218035P/EPRINT_PDF
+Citations: 1
+References: 28
+------
+Agents in Software Engineering: Survey, Landscape, and Vision
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240909030W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240909030W/EPRINT_PDF
+Citations: 22
+References: 93
+------
+How Well Do Large Language Models Serve as End-to-End Secure Code Agents for Python?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240810495G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240810495G/EPRINT_PDF
+Citations: 3
+References: 12
+------
+APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240813597N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240813597N/EPRINT_PDF
+Citations: 10
+References: 11
+------
+PenHeal: A Two-Stage LLM Framework for Automated Pentesting and Optimal Remediation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240717788H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240717788H/EPRINT_PDF
+Citations: 11
+References: 21
+------
+CVE-LLM : Automatic vulnerability evaluation in medical device industry using large language models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240714640G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240714640G/EPRINT_PDF
+Citations: 3
+References: 24
+------
+Towards Explainable Vulnerability Detection with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240609701M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240609701M/EPRINT_PDF
+Citations: 11
+References: 22
+------
+Large Language Models for Cyber Security: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240504760X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240504760X/EPRINT_PDF
+Citations: 66
+References: 205
+------
+LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision and the Road Ahead
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240404834H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240404834H/EPRINT_PDF
+Citations: 31
+References: 90
+------
+Enhanced Automated Code Vulnerability Repair using Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240103741D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240103741D/EPRINT_PDF
+Citations: 5
+References: 33
+------
+An Insight into Security Code Review with LLMs: Capabilities, Obstacles, and Influential Factors
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240116310Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240116310Y/EPRINT_PDF
+Citations: 17
+References: 21
+------
+A Survey on Large Language Models for Software Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231215223Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231215223Z/EPRINT_PDF
+Citations: 68
+References: 495
+------
+Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231107989Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231107989Z/EPRINT_PDF
+Citations: 77
+References: 300
+------
+QuArch: A Benchmark for Evaluating LLM Reasoning in Computer Architecture
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251022087P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251022087P/EPRINT_PDF
+References: 31
+------
+Understanding and Mitigating Errors of LLM-Generated RTL Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250805266Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250805266Z/EPRINT_PDF
+Citations: 1
+References: 18
+------
+ChipSeek-R1: Generating Human-Surpassing RTL with LLM via Hierarchical Reward-Driven Reinforcement Learning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250704736C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250704736C/EPRINT_PDF
+Citations: 1
+References: 14
+------
+RealBench: Benchmarking Verilog Generation Models with Real-World IP Designs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250716200J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250716200J/EPRINT_PDF
+References: 24
+------
+HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250721485W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250721485W/EPRINT_PDF
+References: 13
+------
+SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250620415S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250620415S/EPRINT_PDF
+Citations: 2
+References: 17
+------
+ChatModel: Automating Reference Model Design and Verification with LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250615066Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250615066Y/EPRINT_PDF
+Citations: 3
+References: 22
+------
+ReChisel: Effective Automatic Chisel Code Generation by LLM with Reflection
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250519734N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250519734N/EPRINT_PDF
+Citations: 1
+References: 9
+------
+GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250409485F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250409485F/EPRINT_PDF
+Citations: 1
+References: 12
+------
+Hardware Design and Security Needs Attention: From Survey to Path Forward
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250408854G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250408854G/EPRINT_PDF
+Citations: 2
+References: 46
+------
+From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250419959Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250419959Y/EPRINT_PDF
+References: 17
+------
+Unlocking LLM Repair Capabilities Through Cross-Language Translation and Multi-Agent Refinement
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250322512L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250322512L/EPRINT_PDF
+Citations: 7
+References: 19
+------
+Insights from Rights and Wrongs: A Large Language Model for Solving Assertion Failures in RTL Design
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250304057Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250304057Z/EPRINT_PDF
+Citations: 2
+References: 19
+------
+OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250315112L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250315112L/EPRINT_PDF
+Citations: 2
+References: 30
+------
+A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250403711F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250403711F/EPRINT_PDF
+Citations: 14
+References: 83
+------
+A Generalize Hardware Debugging Approach for Large Language Models Semi-Synthetic, Datasets
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ITCSR..72..623F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ITCSR..72..623F/PUB_HTML
+Citations: 1
+References: 47
+------
+Paradigm-Based Automatic HDL Code Generation Using LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250112702S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250112702S/EPRINT_PDF
+Citations: 5
+References: 13
+------
+AGON: Automated Design Framework for Customizing Processors from ISA Documents
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241220954L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241220954L/EPRINT_PDF
+References: 13
+------
+UVLLM: An Automated Universal RTL Verification Framework using LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241116238H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241116238H/EPRINT_PDF
+Citations: 8
+References: 14
+------
+Location is Key: Leveraging Large Language Model for Functional Bug Localization in Verilog
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240915186Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240915186Y/EPRINT_PDF
+Citations: 4
+References: 12
+------
+RTLRewriter: Methodologies for Large Models aided RTL Code Optimization
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240911414Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240911414Y/EPRINT_PDF
+Citations: 12
+References: 15
+------
+Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240708473C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240708473C/EPRINT_PDF
+Citations: 10
+References: 13
+------
+IICPilot: An Intelligent Integrated Circuit Backend Design Framework Using Open EDA
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240712576J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240712576J/EPRINT_PDF
+Citations: 2
+References: 15
+------
+Classification-Based Automatic HDL Code Generation Using LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240718326S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240718326S/EPRINT_PDF
+Citations: 3
+References: 11
+------
+ChiBench: a Benchmark Suite for Testing Electronic Design Automation Tools
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240606550S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240606550S/EPRINT_PDF
+Citations: 1
+References: 4
+------
+MEIC: Re-thinking RTL Debug Automation using LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240506840X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240506840X/EPRINT_PDF
+Citations: 12
+References: 19
+------
+A Systematic Literature Review on Large Language Models for Automated Program Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240501466Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240501466Z/EPRINT_PDF
+Citations: 49
+References: 59
+------
+LLMs and the Future of Chip Design: Unveiling Security Risks and Building Trust
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240507061W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240507061W/EPRINT_PDF
+Citations: 3
+References: 22
+------
+AnalogCoder: Analog Circuit Design via Training-Free Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240514918L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240514918L/EPRINT_PDF
+Citations: 35
+References: 31
+------
+Machine Learning for FPGA Electronic Design Automation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024IEEEA..12r2640B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024IEEEA..12r2640B/PUB_HTML
+Citations: 1
+References: 15
+------
+Specification-Guided Vulnerability Detection with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251104014Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251104014Z/EPRINT_PDF
+References: 26
+------
+A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251100467W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251100467W/EPRINT_PDF
+References: 5
+------
+DR-CoT: dynamic recursive chain of thought with meta reasoning for parameter efficient models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025NatSR..1534773S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025NatSR..1534773S/PUB_HTML
+References: 30
+------
+VulAgent: Hypothesis-Validation based Multi-Agent Vulnerability Detection
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250911523W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250911523W/EPRINT_PDF
+Citations: 1
+References: 13
+------
+Fine-Tuning LLMs to Analyze Multiple Dimensions of Code Review: A Maximum Entropy Regulated Long Chain-of-Thought Approach
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250921170Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250921170Y/EPRINT_PDF
+References: 23
+------
+A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250722659K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250722659K/EPRINT_PDF
+Citations: 3
+References: 143
+------
+NL in the Middle: Code Translation with LLMs and Intermediate Representations
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250708627T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250708627T/EPRINT_PDF
+References: 13
+------
+Guiding AI to Fix Its Own Flaws: An Empirical Study on LLM-Driven Secure Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250623034Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250623034Y/EPRINT_PDF
+References: 21
+------
+AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250504195S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250504195S/EPRINT_PDF
+Citations: 4
+References: 10
+------
+Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250510961W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250510961W/EPRINT_PDF
+Citations: 3
+References: 14
+------
+Can LLMs Handle WebShell Detection? Overcoming Detection Challenges with Behavioral Function-Aware Framework
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250413811H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250413811H/EPRINT_PDF
+Citations: 3
+References: 16
+------
+R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250404699W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250404699W/EPRINT_PDF
+Citations: 5
+References: 44
+------
+Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250417542T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250417542T/EPRINT_PDF
+Citations: 1
+References: 8
+------
+Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250413474L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250413474L/EPRINT_PDF
+Citations: 11
+References: 30
+------
+Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250415622T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250415622T/EPRINT_PDF
+Citations: 3
+References: 25
+------
+XiHeFusion: Harnessing Large Language Models for Science Communication in Nuclear Fusion
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250205615W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250205615W/EPRINT_PDF
+Citations: 1
+References: 25
+------
+Towards Explainable Vulnerability Detection With Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ITSEn..51.2957M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ITSEn..51.2957M/PUB_HTML
+References: 22
+------
+Harnessing Large Language Models for Software Vulnerability Detection: A Comprehensive Benchmarking Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025IEEEA..1329698T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025IEEEA..1329698T/PUB_HTML
+Citations: 16
+References: 18
+------
+SoK: Towards Effective Automated Vulnerability Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250118820L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250118820L/EPRINT_PDF
+Citations: 4
+References: 21
+------
+Investigating Large Language Models for Code Vulnerability Detection: An Experimental Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241218260J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241218260J/EPRINT_PDF
+Citations: 7
+References: 22
+------
+From Vulnerabilities to Remediation: A Systematic Literature Review of LLMs in Code Security
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241215004B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241215004B/EPRINT_PDF
+Citations: 11
+References: 31
+------
+From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241014321L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241014321L/EPRINT_PDF
+Citations: 4
+References: 15
+------
+If LLMs Would Just Look: Simple Line-by-line Checking Improves Vulnerability Localization
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241015288L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241015288L/EPRINT_PDF
+Citations: 10
+References: 18
+------
+A Qualitative Study on Using ChatGPT for Software Security: Perception vs. Practicality
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240800435K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240800435K/EPRINT_PDF
+Citations: 1
+References: 16
+------
+Vulnerability Handling of AI-Generated Code -- Existing Solutions and Open Challenges
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240808549K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240808549K/EPRINT_PDF
+Citations: 3
+References: 22
+------
+APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240813597N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240813597N/EPRINT_PDF
+Citations: 10
+References: 11
+------
+Towards Explainable Vulnerability Detection with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240609701M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240609701M/EPRINT_PDF
+Citations: 11
+References: 22
+------
+Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240611147D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240611147D/EPRINT_PDF
+Citations: 57
+References: 15
+------
+Generative transformations and patterns in LLM-native approaches for software verification and falsification
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240409384B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240409384B/EPRINT_PDF
+Citations: 5
+References: 82
+------
+Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240402525Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240402525Z/EPRINT_PDF
+Citations: 29
+References: 47
+------
+To Err is Machine: Vulnerability Detection Challenges LLM Reasoning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240317218S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240317218S/EPRINT_PDF
+Citations: 45
+References: 31
+------
+An Insight into Security Code Review with LLMs: Capabilities, Obstacles, and Influential Factors
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240116310Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240116310Y/EPRINT_PDF
+Citations: 17
+References: 21
+------
+A Survey on Large Language Models for Software Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231215223Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231215223Z/EPRINT_PDF
+Citations: 68
+References: 495
+------
+PortGPT: Towards Automated Backporting Using Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251022396L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251022396L/EPRINT_PDF
+References: 15
+------
+The New Quant: A Survey of Large Language Models in Financial Prediction and Trading
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251005533F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251005533F/EPRINT_PDF
+References: 53
+------
+SOCIA-Nabla: Textual Gradient Meets Multi-Agent Orchestration for Automated Simulator Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251018551H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251018551H/EPRINT_PDF
+References: 34
+------
+Diagnostics of cognitive failures in multi-agent expert systems using dynamic evaluation protocols and subsequent mutation of the processing context
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250915366S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250915366S/EPRINT_PDF
+References: 41
+------
+Medical Data Pecking: A Context-Aware Approach for Automated Quality Evaluation of Structured Medical Data
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250702628G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250702628G/EPRINT_PDF
+References: 6
+------
+Leveraging GPT-4 for Vulnerability-Witnessing Unit Test Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250611559A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250611559A/EPRINT_PDF
+References: 8
+------
+Mutation-Guided Unit Test Generation with a Large Language Model
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250602954W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250602954W/EPRINT_PDF
+References: 28
+------
+SOCIA-
+∇
+∇
+: Textual Gradient Meets Multi-Agent Orchestration for Automated Simulator Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250512006H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250512006H/EPRINT_PDF
+References: 35
+------
+AI Behind Closed Doors: a Primer on The Governance of Internal Deployment
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250412170S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250412170S/EPRINT_PDF
+Citations: 7
+References: 32
+------
+Testora: Using Natural Language Intent to Detect Behavioral Regressions
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250318597P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250318597P/EPRINT_PDF
+References: 11
+------
+LLM Based Input Space Partitioning Testing for Library APIs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250105456L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250105456L/EPRINT_PDF
+Citations: 2
+References: 1
+------
+You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241210133B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241210133B/EPRINT_PDF
+Citations: 11
+References: 16
+------
+Inference Scaling fLaws: The Limits of LLM Resampling with Imperfect Verifiers
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241117501S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241117501S/EPRINT_PDF
+Citations: 37
+References: 75
+------
+LLMs: A Game-Changer for Software Engineers?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241100932A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241100932A/EPRINT_PDF
+Citations: 3
+References: 26
+------
+VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240910756Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240910756Z/EPRINT_PDF
+Citations: 12
+References: 27
+------
+RAGProbe: An Automated Approach for Evaluating RAG Applications
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240919019S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240919019S/EPRINT_PDF
+Citations: 6
+References: 31
+------
+"You still have to study" -- On the Security of LLM generated code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240807106G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240807106G/EPRINT_PDF
+Citations: 2
+References: 5
+------
+AutoTest: Evolutionary Code Solution Selection with Test Cases
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240812125D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240812125D/EPRINT_PDF
+References: 4
+------
+Leveraging Large Language Models for Enhancing the Understandability of Generated Unit Tests
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240811710D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240811710D/EPRINT_PDF
+Citations: 14
+References: 17
+------
+Input-Gen: Guided Generation of Stateful Inputs for Testing, Tuning, and Training
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240608843I/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240608843I/EPRINT_PDF
+References: 15
+------
+Mokav: Execution-driven Differential Testing with LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240610375E/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240610375E/EPRINT_PDF
+Citations: 5
+References: 25
+------
+SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240612952M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240612952M/EPRINT_PDF
+Citations: 20
+References: 6
+------
+Test Code Generation for Telecom Software Systems using Two-Stage Generative Model
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240409249N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240409249N/EPRINT_PDF
+Citations: 2
+References: 11
+------
+Automating REST API Postman Test Cases Using LLM
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240410678D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240410678D/EPRINT_PDF
+Citations: 3
+References: 7
+------
+RepairAgent: An Autonomous, LLM-Based Agent for Program Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240317134B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240317134B/EPRINT_PDF
+Citations: 114
+References: 11
+------
+Large Language Models: A Survey
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240206196M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240206196M/EPRINT_PDF
+Citations: 623
+References: 110
+------
+Can Large Language Models Write Good Property-Based Tests?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230704346V/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230704346V/EPRINT_PDF
+Citations: 37
+References: 20
+------
+On Benchmarking Code LLMs for Android Malware Analysis
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250400694H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250400694H/EPRINT_PDF
+References: 11
+------
+The Software IndustryAcademia Collaboration: Novelty and Practice
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ISoft..42c.133C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ISoft..42c.133C/PUB_HTML
+References: 2
+------
+Code LLMs: A Taxonomy-based Survey
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241208291R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241208291R/EPRINT_PDF
+References: 58
+------
+A Survey on Adversarial Machine Learning for Code Data: Realistic Threats, Countermeasures, and Interpretations
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241107597Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241107597Y/EPRINT_PDF
+References: 37
+------
+Human-In-the-Loop Software Development Agents
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241112924T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241112924T/EPRINT_PDF
+Citations: 11
+References: 20
+------
+Mastering the Craft of Data Synthesis for CodeLLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241100005C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241100005C/EPRINT_PDF
+Citations: 1
+References: 53
+------
+Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240307506Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240307506Y/EPRINT_PDF
+Citations: 44
+References: 86
+------
+Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231107989Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231107989Z/EPRINT_PDF
+Citations: 77
+References: 300
+------
+Security Weaknesses of Copilot-Generated Code in GitHub Projects: An Empirical Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231002059F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231002059F/EPRINT_PDF
+Citations: 40
+References: 23
+------
+Refining ChatGPT-Generated Code: Characterizing and Mitigating Code Quality Issues
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230712596L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230712596L/EPRINT_PDF
+Citations: 24
+References: 15
+------
+On the Reliability and Explainability of Language Models for Program Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230209587L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230209587L/EPRINT_PDF
+Citations: 11
+References: 26
+------
+Automatically Recommend Code Updates: Are We There Yet?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2022arXiv220907048L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2022arXiv220907048L/EPRINT_PDF
+Citations: 4
+References: 12
+------
+Automatically Identifying Solution-Related Content in Issue Report Discussions with Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251106501S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251106501S/EPRINT_PDF
+References: 15
+------
+REFLEX: Reference-Free Evaluation of Log Summarization via Large Language Model Judgment
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251107458M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251107458M/EPRINT_PDF
+References: 7
+------
+Dynamic Stability of LLM-Generated Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251107463R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251107463R/EPRINT_PDF
+References: 8
+------
+AI-Driven Self-Evolving Software: A Promising Path Toward Software Automation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251000591C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251000591C/EPRINT_PDF
+References: 11
+------
+Can Emulating Semantic Translation Help LLMs with Code Translation? A Study Based on Pseudocode
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251000920C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251000920C/EPRINT_PDF
+References: 11
+------
+Checkstyle+: Reducing Technical Debt Through The Use of Linters with LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251023068D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251023068D/EPRINT_PDF
+References: 2
+------
+Automated Concern Extraction from Textual Requirements of Cyber-Physical Systems: A Multi-solution Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251019237J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251019237J/EPRINT_PDF
+References: 8
+------
+Lingxi: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251011838Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251011838Y/EPRINT_PDF
+References: 23
+------
+CodeAD: Synthesize Code of Rules for Log-based Anomaly Detection with LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251022986H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251022986H/EPRINT_PDF
+References: 15
+------
+Generating High-Quality Datasets for Code Editing via Open-Source Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250925203Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250925203Z/EPRINT_PDF
+References: 33
+------
+OmniLLP: Enhancing LLM-based Log Level Prediction with Context-Aware Retrieval
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250808545E/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250808545E/EPRINT_PDF
+References: 14
+------
+Detecting Struggling Student Programmers using Proficiency Taxonomies
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250817353S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250817353S/EPRINT_PDF
+References: 7
+------
+How Small is Enough? Empirical Evidence of Quantized Small Language Models for Automated Program Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250816499K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250816499K/EPRINT_PDF
+References: 18
+------
+Foundational Design Principles and Patterns for Building Robust and Adaptive GenAI-Native Systems
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250815411V/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250815411V/EPRINT_PDF
+References: 25
+------
+Single Conversation Methodology: A Human-Centered Protocol for AI-Assisted Software Development
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250712665E/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250712665E/EPRINT_PDF
+References: 11
+------
+Curiosity by Design: An LLM-based Coding Assistant Asking Clarification Questions
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250721285D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250721285D/EPRINT_PDF
+Citations: 2
+References: 18
+------
+Assessing Small Language Models for Code Generation: An Empirical Study with Benchmarks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250703160M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250703160M/EPRINT_PDF
+Citations: 2
+References: 22
+------
+TSAPR: A Tree Search Framework For Automated Program Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250701827H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250701827H/EPRINT_PDF
+Citations: 3
+References: 28
+------
+A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250722659K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250722659K/EPRINT_PDF
+Citations: 3
+References: 143
+------
+LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250602720L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250602720L/EPRINT_PDF
+Citations: 2
+References: 44
+------
+ReCode: Updating Code API Knowledge with Reinforcement Learning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250620495W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250620495W/EPRINT_PDF
+Citations: 3
+References: 62
+------
+Domain Specific Benchmarks for Evaluating Multimodal Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250612958A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250612958A/EPRINT_PDF
+References: 87
+------
+Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250616136H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250616136H/EPRINT_PDF
+Citations: 3
+References: 27
+------
+Large Language Models for Unit Testing: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250615227Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250615227Z/EPRINT_PDF
+Citations: 3
+References: 48
+------
+Augmenting the Generality and Performance of Large Language Models for Software Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250611548P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250611548P/EPRINT_PDF
+References: 9
+------
+The Hitchhikers Guide to Production-ready Trustworthy Foundation Model powered Software (FMware)
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250510640V/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250510640V/EPRINT_PDF
+References: 56
+------
+Search-Based Software Engineering and AI Foundation Models: Current Landscape and Future Roadmap
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250519625S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250519625S/EPRINT_PDF
+References: 60
+------
+Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250508903H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250508903H/EPRINT_PDF
+Citations: 9
+References: 145
+------
+YABLoCo: Yet Another Benchmark for Long Context Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250504406V/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250504406V/EPRINT_PDF
+Citations: 2
+References: 4
+------
+An Empirical Study of OpenAI API Discussions on Stack Overflow
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250504084C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250504084C/EPRINT_PDF
+References: 7
+------
+Text-to-Pipeline: Bridging Natural Language and Data Preparation Pipelines
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250515874G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250515874G/EPRINT_PDF
+Citations: 1
+References: 21
+------
+Integrating LLMs in Software Engineering Education: Motivators, Demotivators, and a Roadmap Towards a Framework for Finnish Higher Education Institutes
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250322238K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250322238K/EPRINT_PDF
+Citations: 1
+References: 6
+------
+RobuNFR: Evaluating the Robustness of Large Language Models on Non-Functional Requirements Aware Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250322851L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250322851L/EPRINT_PDF
+Citations: 3
+References: 21
+------
+Conversational AI as a Coding Assistant: Understanding Programmers' Interactions with and Expectations from Large Language Models for Coding
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250316508A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250316508A/EPRINT_PDF
+Citations: 4
+References: 8
+------
+Novice Developers' Perspectives on Adopting LLMs for Software Development: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250307556F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250307556F/EPRINT_PDF
+Citations: 3
+References: 12
+------
+Improving Retrieval-Augmented Deep Assertion Generation via Joint Training
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250210696Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250210696Z/EPRINT_PDF
+References: 8
+------
+On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250214296H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250214296H/EPRINT_PDF
+Citations: 41
+References: 758
+------
+Representation Engineering for Large-Language Models: Survey and Research Challenges
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250217601B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250217601B/EPRINT_PDF
+Citations: 5
+References: 184
+------
+Improving Retrieval-Augmented Deep Assertion Generation via Joint Training
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ITSEn..51.1232Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ITSEn..51.1232Z/PUB_HTML
+References: 10
+------
+Order Matters! An Empirical Study on Large Language Models' Input Order Bias in Software Fault Localization
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241218750N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241218750N/EPRINT_PDF
+Citations: 2
+References: 14
+------
+Security of Language Models for Code: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241015631C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241015631C/EPRINT_PDF
+Citations: 7
+References: 45
+------
+From Cool Demos to Production-Ready FMware: Core Challenges and a Technology Roadmap
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241020791K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241020791K/EPRINT_PDF
+Citations: 3
+References: 54
+------
+Mastering the Craft of Data Synthesis for CodeLLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241100005C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241100005C/EPRINT_PDF
+Citations: 1
+References: 53
+------
+A Survey on LLM-based Code Generation for Low-Resource and Domain-Specific Programming Languages
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241003981J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241003981J/EPRINT_PDF
+Citations: 30
+References: 175
+------
+Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241013110C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241013110C/EPRINT_PDF
+Citations: 4
+References: 25
+------
+LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241009381W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241009381W/EPRINT_PDF
+Citations: 13
+References: 22
+------
+Understanding the Human-LLM Dynamic: A Literature Survey of LLM Use in Programming Tasks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241001026E/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241001026E/EPRINT_PDF
+Citations: 7
+References: 35
+------
+An Empirical Study of Large Language Models for Type and Call Graph Analysis in Python and JavaScript
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241000603S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241000603S/EPRINT_PDF
+References: 23
+------
+Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240910033H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240910033H/EPRINT_PDF
+Citations: 6
+References: 13
+------
+No Man is an Island: Towards Fully Automatic Programming by Code Search, Code Generation and Program Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240903267Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240903267Z/EPRINT_PDF
+Citations: 3
+References: 11
+------
+Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240906416L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240906416L/EPRINT_PDF
+Citations: 3
+References: 40
+------
+The Impact of Hyperparameters on Large Language Model Inference Performance: An Evaluation of vLLM and HuggingFace Pipelines
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240801050M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240801050M/EPRINT_PDF
+Citations: 1
+References: 20
+------
+Defending Code Language Models against Backdoor Attacks with Deceptive Cross-Entropy Loss
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240708956Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240708956Y/EPRINT_PDF
+Citations: 7
+References: 14
+------
+ESALE: Enhancing Code-Summary Alignment Learning for Source Code Summarization
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240701646F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240701646F/EPRINT_PDF
+References: 21
+------
+STALL+: Boosting LLM-based Repository-level Code Completion with Static Analysis
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240610018L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240610018L/EPRINT_PDF
+Citations: 26
+References: 35
+------
+A Survey of AIOps for Failure Management in the Era of Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240611213Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240611213Z/EPRINT_PDF
+Citations: 18
+References: 57
+------
+Where Is Self-admitted Code Generated by Large Language Models on GitHub?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240619544Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240619544Y/EPRINT_PDF
+Citations: 10
+References: 44
+------
+A Systematic Literature Review on Large Language Models for Automated Program Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240501466Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240501466Z/EPRINT_PDF
+Citations: 49
+References: 59
+------
+Large Language Models for Mobile GUI Text Input Generation: An Empirical Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240408948C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240408948C/EPRINT_PDF
+Citations: 4
+References: 27
+------
+Generative transformations and patterns in LLM-native approaches for software verification and falsification
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240409384B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240409384B/EPRINT_PDF
+Citations: 5
+References: 82
+------
+Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240404566S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240404566S/EPRINT_PDF
+Citations: 16
+References: 51
+------
+Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240402525Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240402525Z/EPRINT_PDF
+Citations: 29
+References: 47
+------
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240309906W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240309906W/EPRINT_PDF
+Citations: 2
+References: 14
+------
+FoC: Figure out the Cryptographic Functions in Stripped Binaries with LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240318403S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240318403S/EPRINT_PDF
+Citations: 1
+References: 23
+------
+The Emergence of Large Language Models in Static Analysis: A First Look through Micro-Benchmarks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240217679P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240217679P/EPRINT_PDF
+Citations: 1
+References: 12
+------
+Esale: Enhancing Code-Summary Alignment Learning for Source Code Summarization
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50.2077F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50.2077F/PUB_HTML
+References: 16
+------
+WhiteFox: White-Box Compiler Fuzzing Empowered by Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231015991Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231015991Y/EPRINT_PDF
+Citations: 28
+References: 17
+------
+APPT: Boosting Automated Patch Correctness Prediction via Fine-tuning Pre-trained Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230112453Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230112453Z/EPRINT_PDF
+Citations: 8
+References: 6
+------
+Chat-RSC: interactive remote sensing image classification via large language models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025IJDE...1819999P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025IJDE...1819999P/PUB_HTML
+Citations: 1
+References: 21
+------
+Evaluating Software Process Models for Multi-Agent Class-Level Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251109794S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251109794S/EPRINT_PDF
+References: 27
+------
+What Challenges Do Developers Face in AI Agent Systems? An Empirical Study on Stack Overflow
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251025423A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251025423A/EPRINT_PDF
+References: 19
+------
+LLaVul: A Multimodal LLM for Interpretable Vulnerability Reasoning about Source Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250917337J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250917337J/EPRINT_PDF
+References: 37
+------
+GRACE: Graph-Guided Repository-Aware Code Completion through Hierarchical Code Fusion
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250905980W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250905980W/EPRINT_PDF
+References: 39
+------
+The Matthew Effect of AI Programming Assistants: A Hidden Bias in Software Evolution
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250923261G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250923261G/EPRINT_PDF
+References: 14
+------
+Towards Reliable Multi-Agent Systems for Marketing Applications via Reflection, Memory, and Planning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250811120F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250811120F/EPRINT_PDF
+References: 30
+------
+Is GPT-OSS Good? A Comprehensive Evaluation of OpenAI's Latest Open Source Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250812461B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250812461B/EPRINT_PDF
+Citations: 1
+References: 63
+------
+MGC: A Compiler Framework Exploiting Compositional Blindness in Aligned LLMs for Malware Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250702057Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250702057Y/EPRINT_PDF
+References: 37
+------
+MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250712284C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250712284C/EPRINT_PDF
+References: 5
+------
+Uncovering the Fragility of Trustworthy LLMs through Chinese Textual Ambiguity
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250723121W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250723121W/EPRINT_PDF
+Citations: 1
+References: 11
+------
+Rethinking the effects of data contamination in Code Intelligence
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250602791Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250602791Y/EPRINT_PDF
+Citations: 2
+References: 28
+------
+Prompt Variability Effects On LLM Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250610204P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250610204P/EPRINT_PDF
+References: 8
+------
+LAMeD: LLM-generated Annotations for Memory Leak Detection
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250502376S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250502376S/EPRINT_PDF
+Citations: 1
+References: 21
+------
+Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250508300A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250508300A/EPRINT_PDF
+Citations: 1
+References: 5
+------
+CRScore++: Reinforcement Learning with Verifiable Tool and AI Feedback for Code Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250600296N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250600296N/EPRINT_PDF
+References: 8
+------
+Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250505057C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250505057C/EPRINT_PDF
+Citations: 1
+References: 6
+------
+Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250516901T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250516901T/EPRINT_PDF
+Citations: 7
+References: 45
+------
+Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250505283W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250505283W/EPRINT_PDF
+Citations: 8
+References: 93
+------
+Fast and Cost-effective Speculative Edge-Cloud Decoding with Early Exits
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250521594V/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250521594V/EPRINT_PDF
+Citations: 4
+References: 28
+------
+Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Improved Accuracy, Reliability, and Latency
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250502133A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250502133A/EPRINT_PDF
+Citations: 7
+References: 38
+------
+Skill Discovery for Software Scripting Automation via Offline Simulations with LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250420406X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250420406X/EPRINT_PDF
+Citations: 2
+References: 12
+------
+Hallucination by Code Generation LLMs: Taxonomy, Benchmarks, Mitigation, and Challenges
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250420799L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250420799L/EPRINT_PDF
+Citations: 6
+References: 37
+------
+Large Language Models (LLMs) for Source Code Analysis: applications, models and datasets
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250317502J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250317502J/EPRINT_PDF
+Citations: 15
+References: 69
+------
+A Study of LLMs' Preferences for Libraries and Programming Languages
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250317181T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250317181T/EPRINT_PDF
+Citations: 10
+References: 36
+------
+CODEPROMPTZIP: Code-specific Prompt Compression for Retrieval-Augmented Generation in Coding Tasks with LMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250214925H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250214925H/EPRINT_PDF
+Citations: 2
+References: 12
+------
+Echo: A Large Language Model with Temporal Episodic Memory
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250216090L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250216090L/EPRINT_PDF
+Citations: 4
+References: 21
+------
+RefineCoder: Iterative Improving of Large Language Models via Adaptive Critique Refinement for Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250209183Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250209183Z/EPRINT_PDF
+Citations: 8
+References: 20
+------
+Process-Supervised Reinforcement Learning for Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250201715Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250201715Y/EPRINT_PDF
+Citations: 13
+References: 35
+------
+Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250213921G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250213921G/EPRINT_PDF
+References: 18
+------
+Automated Code Comments Generation Using Large Language Models: Empirical Evaluation of T5 and BART
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025IEEEA..1341420P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025IEEEA..1341420P/PUB_HTML
+References: 18
+------
+LuaTaint: A Static Analysis System for Web Configuration Interface Vulnerability of Internet of Things Devices
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025IITJ...12.5970X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025IITJ...12.5970X/PUB_HTML
+References: 2
+------
+BitsAI-CR: Automated Code Review via LLM in Practice
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250115134S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250115134S/EPRINT_PDF
+Citations: 8
+References: 34
+------
+Affordably Fine-tuned LLMs Provide Better Answers to Course-specific MCQs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250105891R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250105891R/EPRINT_PDF
+References: 16
+------
+Trading Devil RL: Backdoor attack via Stock market, Bayesian Optimization and Reinforcement Learning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241217908M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241217908M/EPRINT_PDF
+References: 68
+------
+AUCAD: Automated Construction of Alignment Dataset from Log-Related Issues for Enhancing LLM-based Log Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241218835Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241218835Z/EPRINT_PDF
+Citations: 1
+References: 28
+------
+LLMs and generative agent-based models for complex systems research
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024PhLRv..51..283L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024PhLRv..51..283L/PUB_HTML
+Citations: 17
+References: 93
+------
+BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241107464G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241107464G/EPRINT_PDF
+Citations: 4
+References: 38
+------
+Mastering the Craft of Data Synthesis for CodeLLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241100005C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241100005C/EPRINT_PDF
+Citations: 1
+References: 53
+------
+A Survey on LLM-based Code Generation for Low-Resource and Domain-Specific Programming Languages
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241003981J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241003981J/EPRINT_PDF
+Citations: 30
+References: 175
+------
+Understanding Reasoning in Chain-of-Thought from the Hopfieldian View
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241003595H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241003595H/EPRINT_PDF
+Citations: 6
+References: 30
+------
+Automatic Detection of LLM-generated Code: A Case Study of Claude 3 Haiku
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240901382R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240901382R/EPRINT_PDF
+Citations: 9
+References: 16
+------
+LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240920550Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240920550Z/EPRINT_PDF
+Citations: 32
+References: 43
+------
+Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240906416L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240906416L/EPRINT_PDF
+Citations: 3
+References: 40
+------
+Strategic Optimization and Challenges of Large Language Models in Object-Oriented Programming
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240814834W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240814834W/EPRINT_PDF
+References: 16
+------
+CortexCompile: Harnessing Cortical-Inspired Architectures for Enhanced Multi-Agent NLP Code Synthesis
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240902938R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240902938R/EPRINT_PDF
+References: 7
+------
+Understanding Defects in Generated Codes by Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240813372E/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240813372E/EPRINT_PDF
+Citations: 1
+References: 18
+------
+Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240805506E/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240805506E/EPRINT_PDF
+Citations: 5
+References: 22
+------
+SWE-bench-java: A GitHub Issue Resolving Benchmark for Java
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240814354Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240814354Z/EPRINT_PDF
+Citations: 18
+References: 7
+------
+Generative Agent-Based Models for Complex Systems Research: a review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240809175L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240809175L/EPRINT_PDF
+Citations: 3
+References: 92
+------
+Natural Language Outlines for Code: Literate Programming in the LLM Era
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240804820S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240804820S/EPRINT_PDF
+Citations: 11
+References: 18
+------
+The Impact of Hyperparameters on Large Language Model Inference Performance: An Evaluation of vLLM and HuggingFace Pipelines
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240801050M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240801050M/EPRINT_PDF
+Citations: 1
+References: 20
+------
+Generating Unseen Code Tests In Infinitum
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240719772Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240719772Z/EPRINT_PDF
+References: 7
+------
+What's Wrong with Your Code Generated by Large Language Models? An Extensive Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240706153D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240706153D/EPRINT_PDF
+Citations: 57
+References: 58
+------
+When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240720042G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240720042G/EPRINT_PDF
+Citations: 4
+References: 30
+------
+Beyond Functional Correctness: Investigating Coding Style Inconsistencies in Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240700456W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240700456W/EPRINT_PDF
+Citations: 17
+References: 69
+------
+A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240610303W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240610303W/EPRINT_PDF
+Citations: 7
+References: 57
+------
+GraphCoder: Enhancing Repository-Level Code Completion via Code Context Graph-based Retrieval and Language Model
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240607003L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240607003L/EPRINT_PDF
+Citations: 23
+References: 19
+------
+A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240612255H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240612255H/EPRINT_PDF
+Citations: 10
+References: 32
+------
+A Survey on Large Language Models for Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240600515J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240600515J/EPRINT_PDF
+Citations: 436
+References: 163
+------
+CodeR: Issue Resolving with Multi-Agent and Task Graphs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240601304C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240601304C/EPRINT_PDF
+Citations: 58
+References: 15
+------
+DocuMint: Docstring Generation for Python using Small Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240510243P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240510243P/EPRINT_PDF
+Citations: 5
+References: 18
+------
+Sketch Then Generate: Providing Incremental User Feedback and Guiding LLM Code Generation through Language-Oriented Code Sketches
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240503998Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240503998Z/EPRINT_PDF
+Citations: 11
+References: 11
+------
+BLSP-KD: Bootstrapping Language-Speech Pre-training via Knowledge Distillation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240519041W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240519041W/EPRINT_PDF
+Citations: 8
+References: 24
+------
+A Systematic Literature Review on Large Language Models for Automated Program Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240501466Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240501466Z/EPRINT_PDF
+Citations: 49
+References: 59
+------
+Generative AI in Cybersecurity: A Comprehensive Review of LLM Applications and Vulnerabilities
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240512750A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240512750A/EPRINT_PDF
+Citations: 26
+References: 92
+------
+Large Language Models for Cyber Security: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240504760X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240504760X/EPRINT_PDF
+Citations: 66
+References: 205
+------
+Multiple-Choice Questions are Efficient and Robust LLM Evaluators
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240511966Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240511966Z/EPRINT_PDF
+Citations: 21
+References: 16
+------
+Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240402525Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240402525Z/EPRINT_PDF
+Citations: 29
+References: 47
+------
+MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240317927T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240317927T/EPRINT_PDF
+Citations: 46
+References: 21
+------
+CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240216717L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240216717L/EPRINT_PDF
+Citations: 79
+References: 20
+------
+Chain-of-Thought in Neural Code Generation: From and for Lightweight Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50.2437Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50.2437Y/PUB_HTML
+Citations: 1
+References: 48
+------
+ECG: Augmenting Embedded Operating System Fuzzing via LLM-Based Corpus Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITCAD..43.4238Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITCAD..43.4238Z/PUB_HTML
+Citations: 1
+References: 11
+------
+Convergences and Divergences between Automatic Assessment and Human Evaluation: Insights from Comparing ChatGPT-Generated Translation and Neural Machine Translation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240105176J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240105176J/EPRINT_PDF
+Citations: 3
+References: 10
+------
+Distinguishing Translations by Human, NMT, and ChatGPT: A Linguistic and Statistical Approach
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231210750J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231210750J/EPRINT_PDF
+Citations: 1
+References: 11
+------
+MELA: Multilingual Evaluation of Linguistic Acceptability
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231109033Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231109033Z/EPRINT_PDF
+Citations: 3
+References: 13
+------
+Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities
+ABS Link: https://ui.adsabs.harvard.edu/abs/2022arXiv221210017M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2022arXiv221210017M/EPRINT_PDF
+Citations: 4
+References: 39
+------
+Prompting in Practice: Investigating Software Developers' Use of Generative AI Tools
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251006000O/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251006000O/EPRINT_PDF
+References: 24
+------
+PyMigTool: a tool for end-to-end Python library migration
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251008810I/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251008810I/EPRINT_PDF
+References: 8
+------
+What Slows Down FMware Development? An Empirical Study of Developer Challenges and Resolution Times
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251011138W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251011138W/EPRINT_PDF
+References: 12
+------
+Combining TSL and LLM to Automate REST API Testing: A Comparative Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250905540B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250905540B/EPRINT_PDF
+References: 17
+------
+Development of Automated Software Design Document Review Methods Using Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250909975F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250909975F/EPRINT_PDF
+References: 11
+------
+An LLM Agentic Approach for Legal-Critical Software: A Case Study for Tax Prep Software
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250913471G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250913471G/EPRINT_PDF
+References: 10
+------
+Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250708594A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250708594A/EPRINT_PDF
+References: 5
+------
+Mobile Application Review Summarization using Chain of Density Prompting
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250614192S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250614192S/EPRINT_PDF
+References: 6
+------
+Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250508903H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250508903H/EPRINT_PDF
+Citations: 9
+References: 145
+------
+What Needs Attention? Prioritizing Drivers of Developers' Trust and Adoption of Generative AI
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250517418C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250517418C/EPRINT_PDF
+Citations: 4
+References: 7
+------
+Let's Verify Math Questions Step by Step
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250513903S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250513903S/EPRINT_PDF
+Citations: 5
+References: 33
+------
+Technical Challenges in Maintaining Tax Prep Software with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250418693G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250418693G/EPRINT_PDF
+Citations: 2
+References: 3
+------
+An Empirical Study of Python Library Migration Using Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250413272M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250413272M/EPRINT_PDF
+Citations: 1
+References: 11
+------
+Automatically Generating Rules of Malicious Software Packages via Large Language Model
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250417198Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250417198Z/EPRINT_PDF
+Citations: 1
+References: 23
+------
+From Inductive to Deductive: LLMs-Based Qualitative Data Analysis in Requirements Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250419384T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250419384T/EPRINT_PDF
+References: 9
+------
+Engineering Scientific Assistants using Interactive Structured Induction of Programs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250314488S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250314488S/EPRINT_PDF
+Citations: 1
+References: 14
+------
+MaintainCoder: Maintainable Code Generation Under Dynamic Requirements
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250324260W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250324260W/EPRINT_PDF
+Citations: 2
+References: 25
+------
+Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250311085Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250311085Y/EPRINT_PDF
+Citations: 2
+References: 25
+------
+JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250308990G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250308990G/EPRINT_PDF
+Citations: 2
+References: 38
+------
+Codehacks: A Dataset of Adversarial Tests for Competitive Programming Problems Obtained from Codeforces
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250323466H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250323466H/EPRINT_PDF
+References: 10
+------
+Practitioners' Expectations on Log Anomaly Detection
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ITSEn..51.2455M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ITSEn..51.2455M/PUB_HTML
+References: 8
+------
+Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ITSEn..51.2472Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ITSEn..51.2472Y/PUB_HTML
+References: 28
+------
+Look Before You Leap: An Exploratory Study of Uncertainty Analysis for Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ITSEn..51..413H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ITSEn..51..413H/PUB_HTML
+Citations: 6
+References: 45
+------
+Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ITEC...29..534W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ITEC...29..534W/PUB_HTML
+Citations: 3
+References: 68
+------
+From Simulators to Digital Twins for Enabling Emerging Cellular Networks: A Tutorial and Survey
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ICST...27.2693M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ICST...27.2693M/PUB_HTML
+References: 9
+------
+SPROUT: An Interactive Authoring Tool for Generating Programming Tutorials With the Visualization of Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ITVCG..31.4761L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ITVCG..31.4761L/PUB_HTML
+References: 14
+------
+Reimagining Unit Test Generation With AI: A Journey From Evolutionary Models to Transformers
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025IEEEA..1354908Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025IEEEA..1354908Z/PUB_HTML
+References: 27
+------
+Fault Localization via Fine-tuning Large Language Models with Mutation Generated Stack Traces
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250118005J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250118005J/EPRINT_PDF
+Citations: 1
+References: 16
+------
+The Road to Artificial SuperIntelligence: A Comprehensive Survey of Superalignment
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241216468K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241216468K/EPRINT_PDF
+Citations: 9
+References: 34
+------
+Practitioners' Expectations on Log Anomaly Detection
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241201066M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241201066M/EPRINT_PDF
+Citations: 1
+References: 3
+------
+AUCAD: Automated Construction of Alignment Dataset from Log-Related Issues for Enhancing LLM-based Log Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241218835Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241218835Z/EPRINT_PDF
+Citations: 1
+References: 28
+------
+Precision or Peril: Evaluating Code Quality from Quantized Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241110656M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241110656M/EPRINT_PDF
+Citations: 1
+References: 23
+------
+LLMPirate: LLMs for Black-box Hardware IP Piracy
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241116111G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241116111G/EPRINT_PDF
+Citations: 2
+References: 12
+------
+Advanced System Integration: Analyzing OpenAPI Chunking for Retrieval-Augmented Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241119804P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241119804P/EPRINT_PDF
+Citations: 3
+References: 15
+------
+CODECLEANER: Elevating Standards with A Robust Data Contamination Mitigation Toolkit
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241110842C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241110842C/EPRINT_PDF
+Citations: 2
+References: 29
+------
+Crystal: Illuminating LLM Abilities on Language and Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241104156T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241104156T/EPRINT_PDF
+Citations: 4
+References: 31
+------
+LLMs are Imperfect, Then What? An Empirical Study on LLM Failures in Software Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241109916T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241109916T/EPRINT_PDF
+Citations: 7
+References: 18
+------
+On the use of Large Language Models in Model-Driven Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241017370D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241017370D/EPRINT_PDF
+Citations: 1
+References: 8
+------
+A Multi-model Approach for Video Data Retrieval in Autonomous Vehicle Development
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241003580K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241003580K/EPRINT_PDF
+References: 7
+------
+AMUSD: Asynchronous Multi-Device Speculative Decoding for LLM Acceleration
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241017375M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241017375M/EPRINT_PDF
+Citations: 7
+References: 10
+------
+A Survey on LLM-based Code Generation for Low-Resource and Domain-Specific Programming Languages
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241003981J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241003981J/EPRINT_PDF
+Citations: 30
+References: 175
+------
+Towards Assurance of LLM Adversarial Robustness using Ontology-Driven Argumentation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241007962B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241007962B/EPRINT_PDF
+References: 17
+------
+Lifting the Veil on Composition, Risks, and Mitigations of the Large Language Model Supply Chain
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241021218H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241021218H/EPRINT_PDF
+Citations: 4
+References: 37
+------
+Moving Faster and Reducing Risk: Using LLMs in Release Deployment
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241006351A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241006351A/EPRINT_PDF
+Citations: 1
+References: 4
+------
+SWE-Bench+: Enhanced Coding Benchmark for LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241006992A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241006992A/EPRINT_PDF
+Citations: 36
+References: 21
+------
+An Empirical Study of Large Language Models for Type and Call Graph Analysis in Python and JavaScript
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241000603S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241000603S/EPRINT_PDF
+References: 23
+------
+A Model Is Not Built By A Single Prompt: LLM-Based Domain Modeling With Question Decomposition
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241009854C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241009854C/EPRINT_PDF
+Citations: 4
+References: 9
+------
+Memory-Efficient Large Language Models for Program Repair with Semantic-Guided Patch Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241016655L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241016655L/EPRINT_PDF
+Citations: 3
+References: 20
+------
+What Guides Our Choices? Modeling Developers' Trust and Behavioral Intentions Towards GenAI
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240904099C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240904099C/EPRINT_PDF
+Citations: 9
+References: 7
+------
+A Systematic Evaluation of Large Code Models in API Suggestion: When, Which, and How
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240913178W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240913178W/EPRINT_PDF
+Citations: 4
+References: 13
+------
+Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240906416L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240906416L/EPRINT_PDF
+Citations: 3
+References: 40
+------
+Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240906568L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240906568L/EPRINT_PDF
+Citations: 3
+References: 23
+------
+Strategic Optimization and Challenges of Large Language Models in Object-Oriented Programming
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240814834W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240814834W/EPRINT_PDF
+References: 16
+------
+Better Python Programming for all: With the focus on Maintainability
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240809134S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240809134S/EPRINT_PDF
+Citations: 2
+References: 12
+------
+Multilingual Crowd-Based Requirements Engineering Using Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240806505P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240806505P/EPRINT_PDF
+Citations: 1
+References: 6
+------
+Icing on the Cake: Automatic Code Summarization at Ericsson
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240809735S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240809735S/EPRINT_PDF
+Citations: 1
+References: 12
+------
+FANNO: Augmenting High-Quality Instruction Data with Open-Sourced LLMs Only
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240801323Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240801323Z/EPRINT_PDF
+Citations: 6
+References: 33
+------
+Leveraging Large Language Models for Enhancing the Understandability of Generated Unit Tests
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240811710D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240811710D/EPRINT_PDF
+Citations: 14
+References: 17
+------
+A Survey on Evaluating Large Language Models in Code Generation Tasks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240816498C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240816498C/EPRINT_PDF
+Citations: 45
+References: 21
+------
+An Empirical Study on Challenges for LLM Application Developers
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240805002C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240805002C/EPRINT_PDF
+Citations: 8
+References: 15
+------
+A Survey on Symbolic Knowledge Distillation of Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240810210A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240810210A/EPRINT_PDF
+References: 119
+------
+Knowledge-based Consistency Testing of Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240712830S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240712830S/EPRINT_PDF
+Citations: 3
+References: 25
+------
+Beyond Correctness: Benchmarking Multi-dimensional Code Generation for Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240711470Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240711470Z/EPRINT_PDF
+Citations: 11
+References: 27
+------
+Tactics, Techniques, and Procedures (TTPs) in Interpreted Malware: A Zero-Shot Generation with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240708532Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240708532Z/EPRINT_PDF
+Citations: 7
+References: 16
+------
+Struct-X: Enhancing Large Language Models Reasoning with Structured Data
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240712522T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240712522T/EPRINT_PDF
+Citations: 3
+References: 15
+------
+Model-based Maintenance and Evolution with GenAI: A Look into the Future
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240707269M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240707269M/EPRINT_PDF
+Citations: 2
+References: 4
+------
+Source Code Summarization in the Era of Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240707959S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240707959S/EPRINT_PDF
+Citations: 40
+References: 7
+------
+Prompting Techniques for Secure Code Generation: A Systematic Investigation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240707064T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240707064T/EPRINT_PDF
+Citations: 13
+References: 25
+------
+FAIL: Analyzing Software Failures from the News Using LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240608221A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240608221A/EPRINT_PDF
+Citations: 2
+References: 8
+------
+GPT-Powered Elicitation Interview Script Generator for Requirements Engineering Training
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240611439G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240611439G/EPRINT_PDF
+Citations: 1
+References: 21
+------
+Identifying Inaccurate Descriptions in LLM-generated Code Comments via Test Execution
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240614836K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240614836K/EPRINT_PDF
+Citations: 3
+References: 11
+------
+Log Parsing using LLMs with Self-Generated In-Context Learning and Self-Correction
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240603376W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240603376W/EPRINT_PDF
+Citations: 4
+References: 13
+------
+ESALE: Enhancing Code-Summary Alignment Learning for Source Code Summarization
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240701646F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240701646F/EPRINT_PDF
+References: 21
+------
+Mokav: Execution-driven Differential Testing with LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240610375E/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240610375E/EPRINT_PDF
+Citations: 5
+References: 25
+------
+Large Language Models as Software Components: A Taxonomy for LLM-Integrated Applications
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240610300W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240610300W/EPRINT_PDF
+Citations: 17
+References: 32
+------
+Large-scale, Independent and Comprehensive study of the power of LLMs for test case generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240700225O/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240700225O/EPRINT_PDF
+Citations: 21
+References: 24
+------
+BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240615877Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240615877Z/EPRINT_PDF
+Citations: 267
+References: 38
+------
+StackSight: Unveiling WebAssembly through Large Language Models and Neurosymbolic Chain-of-Thought Decompilation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240604568F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240604568F/EPRINT_PDF
+Citations: 1
+References: 7
+------
+Creativity, Generative AI, and Software Development: A Research Agenda
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240601966J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240601966J/EPRINT_PDF
+Citations: 6
+References: 3
+------
+A Survey of AIOps for Failure Management in the Era of Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240611213Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240611213Z/EPRINT_PDF
+Citations: 18
+References: 57
+------
+Demystifying AI Platform Design for Distributed Inference of Next-Generation LLM models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240601698B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240601698B/EPRINT_PDF
+Citations: 15
+References: 26
+------
+Unlock the Correlation between Supervised Fine-Tuning and Reinforcement Learning in Training Code Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240610305C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240610305C/EPRINT_PDF
+Citations: 3
+References: 24
+------
+Where Is Self-admitted Code Generated by Large Language Models on GitHub?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240619544Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240619544Y/EPRINT_PDF
+Citations: 10
+References: 44
+------
+A Context-Driven Approach for Co-Auditing Smart Contracts with The Support of GPT-4 code interpreter
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240618075S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240618075S/EPRINT_PDF
+Citations: 1
+References: 5
+------
+Semantic API Alignment: Linking High-level User Goals to APIs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240504236F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240504236F/EPRINT_PDF
+Citations: 1
+References: 2
+------
+Requirements are All You Need: The Final Frontier for End-User Software Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240513708R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240513708R/EPRINT_PDF
+Citations: 5
+References: 17
+------
+LLM Security Guard for Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240501103K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240501103K/EPRINT_PDF
+References: 5
+------
+Generating User Experience Based on Personas with AI Assistants
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240501051H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240501051H/EPRINT_PDF
+References: 7
+------
+Automated Control Logic Test Case Generation using Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240501874K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240501874K/EPRINT_PDF
+Citations: 2
+References: 5
+------
+A Systematic Literature Review on Large Language Models for Automated Program Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240501466Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240501466Z/EPRINT_PDF
+Citations: 49
+References: 59
+------
+Generative AI in Cybersecurity: A Comprehensive Review of LLM Applications and Vulnerabilities
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240512750A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240512750A/EPRINT_PDF
+Citations: 26
+References: 92
+------
+A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240501769Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240501769Z/EPRINT_PDF
+Citations: 50
+References: 197
+------
+Software Vulnerability Prediction in Low-Resource Languages: An Empirical Study of CodeBERT and ChatGPT
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240417110L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240417110L/EPRINT_PDF
+Citations: 2
+References: 10
+------
+Test Code Generation for Telecom Software Systems using Two-Stage Generative Model
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240409249N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240409249N/EPRINT_PDF
+Citations: 2
+References: 11
+------
+Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240406201L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240406201L/EPRINT_PDF
+References: 24
+------
+The Power of Words: Generating PowerShell Attacks from Natural Language
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240412893L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240412893L/EPRINT_PDF
+Citations: 2
+References: 13
+------
+TEL'M: Test and Evaluation of Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240410200C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240410200C/EPRINT_PDF
+References: 24
+------
+"We Need Structured Output": Towards User-centered Constraints on Large Language Model Output
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240407362X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240407362X/EPRINT_PDF
+Citations: 8
+References: 16
+------
+Calibration of Large Language Models on Code Summarization
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240419318V/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240419318V/EPRINT_PDF
+Citations: 19
+References: 22
+------
+LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240410304L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240410304L/EPRINT_PDF
+Citations: 37
+References: 7
+------
+A Survey on the Memory Mechanism of Large Language Model based Agents
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240413501Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240413501Z/EPRINT_PDF
+Citations: 190
+References: 135
+------
+From Image to UML: First Results of Image Based UML Diagram Generation Using LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240411376C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240411376C/EPRINT_PDF
+Citations: 8
+References: 7
+------
+AI-powered Code Review with LLMs: Early Results
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240418496R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240418496R/EPRINT_PDF
+Citations: 31
+References: 5
+------
+Online Safety Analysis for LLMs: a Benchmark, an Assessment, and a Path Forward
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240408517X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240408517X/EPRINT_PDF
+Citations: 8
+References: 70
+------
+Model Generation with LLMs: From Requirements to UML Sequence Diagrams
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240406371F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240406371F/EPRINT_PDF
+Citations: 9
+References: 8
+------
+Neural Fault Injection: Generating Software Faults from Natural Language
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240407491C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240407491C/EPRINT_PDF
+Citations: 1
+References: 2
+------
+Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240404566S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240404566S/EPRINT_PDF
+Citations: 16
+References: 51
+------
+Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240314592N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240314592N/EPRINT_PDF
+Citations: 3
+References: 16
+------
+An Exploratory Investigation into Code License Infringements in Large Language Model Training Datasets
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240315230K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240315230K/EPRINT_PDF
+Citations: 1
+References: 16
+------
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240309906W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240309906W/EPRINT_PDF
+Citations: 2
+References: 14
+------
+Concerned with Data Contamination? Assessing Countermeasures in Code Language Model
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240316898C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240316898C/EPRINT_PDF
+Citations: 21
+References: 23
+------
+InfiBench: Evaluating the Question-Answering Capabilities of Code Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240407940L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240407940L/EPRINT_PDF
+Citations: 4
+References: 24
+------
+Analyzing and Mitigating (with LLMs) the Security Misconfigurations of Helm Charts from Artifact Hub
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240309537M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240309537M/EPRINT_PDF
+Citations: 8
+References: 3
+------
+Reasoning Runtime Behavior of a Program with LLM: How Far Are We?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240316437C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240316437C/EPRINT_PDF
+Citations: 20
+References: 23
+------
+Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240307506Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240307506Y/EPRINT_PDF
+Citations: 44
+References: 86
+------
+Output Format Biases in the Evaluation of Large Language Models for Code Translation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240317214M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240317214M/EPRINT_PDF
+Citations: 5
+References: 21
+------
+Enhancing Large Language Models for Text-to-Testcase Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240211910A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240211910A/EPRINT_PDF
+Citations: 7
+References: 25
+------
+IllusionX: An LLM-powered mixed reality personal companion
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240207924Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240207924Y/EPRINT_PDF
+Citations: 5
+References: 18
+------
+The Emergence of Large Language Models in Static Analysis: A First Look through Micro-Benchmarks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240217679P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240217679P/EPRINT_PDF
+Citations: 1
+References: 12
+------
+Chain-of-Thought Prompting of Large Language Models for Discovering and Fixing Software Vulnerabilities
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240217230N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240217230N/EPRINT_PDF
+Citations: 33
+References: 18
+------
+Are LLMs Ready for Real-World Materials Discovery?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240205200M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240205200M/EPRINT_PDF
+Citations: 45
+References: 20
+------
+API Pack: A Massive Multi-Programming Language Dataset for API Call Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240209615G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240209615G/EPRINT_PDF
+Citations: 5
+References: 35
+------
+Requirements Engineering and Large Language Models: Insights From a Panel
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ISoft..41b...6B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ISoft..41b...6B/PUB_HTML
+References: 3
+------
+Software Testing With Large Language Models: Survey, Landscape, and Vision
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50..911W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50..911W/PUB_HTML
+Citations: 14
+References: 86
+------
+LLM-Based Edge Intelligence: A Comprehensive Survey on Architectures, Applications, Security and Trustworthiness
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024IOJCS...5.5799F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024IOJCS...5.5799F/PUB_HTML
+Citations: 2
+References: 197
+------
+LTM: Scalable and Black-Box Similarity-Based Test Suite Minimization Based on Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50.3053P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50.3053P/PUB_HTML
+Citations: 1
+References: 16
+------
+Behind the Intent of Extract Method Refactoring: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50..668A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50..668A/PUB_HTML
+Citations: 1
+References: 5
+------
+Esale: Enhancing Code-Summary Alignment Learning for Source Code Summarization
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50.2077F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50.2077F/PUB_HTML
+References: 16
+------
+Automatic Commit Message Generation: A Critical Review and Directions for Future Work
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50..816Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50..816Z/PUB_HTML
+References: 13
+------
+ECG: Augmenting Embedded Operating System Fuzzing via LLM-Based Corpus Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITCAD..43.4238Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITCAD..43.4238Z/PUB_HTML
+Citations: 1
+References: 11
+------
+LUNA: A Model-Based Universal Analysis Framework for Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50.1921S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50.1921S/PUB_HTML
+Citations: 2
+References: 88
+------
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240105940L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240105940L/EPRINT_PDF
+Citations: 5
+References: 17
+------
+A Survey on Symbolic Knowledge Distillation of Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITAI....5.5928A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITAI....5.5928A/PUB_HTML
+Citations: 4
+References: 121
+------
+FlakyFix: Using Large Language Models for Predicting Flaky Test Fix Categories and Test Code Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50.3146F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50.3146F/PUB_HTML
+Citations: 2
+References: 20
+------
+Self-sustaining Software Systems (S4): Towards Improved Interpretability and Adaptation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240111370C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240111370C/EPRINT_PDF
+Citations: 1
+References: 5
+------
+An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240116186R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240116186R/EPRINT_PDF
+Citations: 9
+References: 7
+------
+Killer Apps: Low-Speed, Large-Scale AI Weapons
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240201663F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240201663F/EPRINT_PDF
+Citations: 1
+References: 6
+------
+Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240110034W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240110034W/EPRINT_PDF
+Citations: 55
+References: 68
+------
+SPADE: Synthesizing Data Quality Assertions for Large Language Model Pipelines
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240103038S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240103038S/EPRINT_PDF
+Citations: 27
+References: 34
+------
+E&V: Prompting Large Language Models to Perform Static Analysis by Pseudo-code Execution and Verification
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231208477H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231208477H/EPRINT_PDF
+Citations: 15
+References: 36
+------
+Behind the Intent of Extract Method Refactoring: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231212600A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231212600A/EPRINT_PDF
+References: 8
+------
+AutoTask: Executing Arbitrary Voice Commands by Exploring and Learning from Mobile GUI
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231216062P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231216062P/EPRINT_PDF
+Citations: 5
+References: 19
+------
+A Survey on Large Language Models for Software Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231215223Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231215223Z/EPRINT_PDF
+Citations: 68
+References: 495
+------
+Large Language Models Suffer From Their Own Output: An Analysis of the Self-Consuming Training Loop
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231116822B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231116822B/EPRINT_PDF
+Citations: 45
+References: 19
+------
+Lessons from Building StackSpot AI: A Contextualized AI Coding Assistant
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231118450P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231118450P/EPRINT_PDF
+Citations: 2
+References: 16
+------
+SparseCoder: Advancing Source Code Analysis with Sparse Attention and Learned Token Pruning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231007109Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231007109Y/EPRINT_PDF
+Citations: 1
+References: 25
+------
+ConDefects: A New Dataset to Address the Data Leakage Concern for LLM-based Fault Localization and Program Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231016253W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231016253W/EPRINT_PDF
+Citations: 9
+References: 12
+------
+LUNA: A Model-Based Universal Analysis Framework for Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231014211S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231014211S/EPRINT_PDF
+Citations: 2
+References: 84
+------
+Understanding Documentation Use Through Log Analysis: An Exploratory Case Study of Four Cloud Services
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231010817N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231010817N/EPRINT_PDF
+Citations: 2
+References: 2
+------
+An Empirical Study of the Non-determinism of ChatGPT in Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230802828O/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230802828O/EPRINT_PDF
+Citations: 112
+References: 30
+------
+Large Language Models for Software Engineering: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230810620H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230810620H/EPRINT_PDF
+Citations: 265
+References: 341
+------
+Software Testing with Large Language Models: Survey, Landscape, and Vision
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230707221W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230707221W/EPRINT_PDF
+Citations: 58
+References: 76
+------
+Can Large Language Models Write Good Property-Based Tests?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230704346V/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230704346V/EPRINT_PDF
+Citations: 37
+References: 20
+------
+Look Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230710236H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230710236H/EPRINT_PDF
+Citations: 134
+References: 46
+------
+FlakyFix: Using Large Language Models for Predicting Flaky Test Fix Categories and Test Code Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230700012F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230700012F/EPRINT_PDF
+Citations: 6
+References: 19
+------
+LMs: Understanding Code Syntax and Semantics for Code Analysis
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230512138M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230512138M/EPRINT_PDF
+Citations: 76
+References: 30
+------
+Emergent Representations of Program Semantics in Language Models Trained on Programs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230511169J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230511169J/EPRINT_PDF
+Citations: 9
+References: 6
+------
+LTM: Scalable and Black-box Similarity-based Test Suite Minimization based on Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230401397P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230401397P/EPRINT_PDF
+Citations: 3
+References: 16
+------
+On the Reliability and Explainability of Language Models for Program Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230209587L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230209587L/EPRINT_PDF
+Citations: 11
+References: 26
+------
+Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities
+ABS Link: https://ui.adsabs.harvard.edu/abs/2022arXiv221210017M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2022arXiv221210017M/EPRINT_PDF
+Citations: 4
+References: 39
+------
+Automatically Recommend Code Updates: Are We There Yet?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2022arXiv220907048L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2022arXiv220907048L/EPRINT_PDF
+Citations: 4
+References: 12
+------
+LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251010179H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251010179H/EPRINT_PDF
+References: 26
+------
+Combining TSL and LLM to Automate REST API Testing: A Comparative Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250905540B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250905540B/EPRINT_PDF
+References: 17
+------
+Comparative Evaluation of Large Language Models for Test-Skeleton Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250904644B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250904644B/EPRINT_PDF
+References: 3
+------
+The role of large language models in UI/UX design: A systematic literature review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250704469A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250704469A/EPRINT_PDF
+Citations: 2
+References: 13
+------
+CrashFixer: A crash resolution agent for the Linux kernel
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250420412M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250420412M/EPRINT_PDF
+Citations: 2
+References: 24
+------
+Harden and Catch for Just-in-Time Assured LLM-Based Software Testing: Open Research Challenges
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250416472H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250416472H/EPRINT_PDF
+Citations: 1
+References: 11
+------
+Mutation-Guided LLM-based Test Generation at Meta
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250112862F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250112862F/EPRINT_PDF
+Citations: 11
+References: 5
+------
+Why Do Developers Engage with ChatGPT in Issue-Tracker? Investigating Usage and Reliance on ChatGPT-Generated Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241206757K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241206757K/EPRINT_PDF
+Citations: 2
+References: 15
+------
+Standardization Trends on Safety and Trustworthiness Technology for Advanced AI
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241022151J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241022151J/EPRINT_PDF
+References: 33
+------
+Leveraging Large Language Models for Enhancing the Understandability of Generated Unit Tests
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240811710D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240811710D/EPRINT_PDF
+Citations: 14
+References: 17
+------
+LLM for Mobile: An Initial Roadmap
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240706573C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240706573C/EPRINT_PDF
+Citations: 3
+References: 62
+------
+Unveiling Assumptions: Exploring the Decisions of AI Chatbots and Human Testers
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240611339G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240611339G/EPRINT_PDF
+References: 4
+------
+Agent-Driven Automatic Software Improvement
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240616739V/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240616739V/EPRINT_PDF
+Citations: 1
+References: 35
+------
+Participation in the age of foundation models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240519479S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240519479S/EPRINT_PDF
+References: 26
+------
+Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240503509M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240503509M/EPRINT_PDF
+Citations: 1
+References: 31
+------
+Test Oracle Automation in the era of LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240512766M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240512766M/EPRINT_PDF
+Citations: 3
+References: 10
+------
+Software development in the age of LLMs and XR
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240409789G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240409789G/EPRINT_PDF
+References: 5
+------
+Large Language Model Evaluation Via Multi AI Agents: Preliminary results
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240401023R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240401023R/EPRINT_PDF
+Citations: 7
+References: 18
+------
+Revisiting Code Similarity Evaluation with Abstract Syntax Tree Edit Distance
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240408817S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240408817S/EPRINT_PDF
+Citations: 5
+References: 10
+------
+Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240402525Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240402525Z/EPRINT_PDF
+Citations: 29
+References: 47
+------
+An Exploratory Investigation into Code License Infringements in Large Language Model Training Datasets
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240315230K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240315230K/EPRINT_PDF
+Citations: 1
+References: 16
+------
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240309906W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240309906W/EPRINT_PDF
+Citations: 2
+References: 14
+------
+On the effectiveness of Large Language Models for GitHub Workflows
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240312446Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240312446Z/EPRINT_PDF
+Citations: 3
+References: 13
+------
+CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240319287Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240319287Z/EPRINT_PDF
+Citations: 5
+References: 29
+------
+HDLdebugger: Streamlining HDL debugging with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240311671Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240311671Y/EPRINT_PDF
+Citations: 30
+References: 21
+------
+Enhancing Large Language Models for Text-to-Testcase Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240211910A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240211910A/EPRINT_PDF
+Citations: 7
+References: 25
+------
+LLMs in the Heart of Differential Testing: A Case Study on a Medical Rule Engine
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240403664I/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240403664I/EPRINT_PDF
+Citations: 3
+References: 12
+------
+Play Guessing Game with LLM: Indirect Jailbreak Attack with Implicit Clues
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240209091C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240209091C/EPRINT_PDF
+Citations: 39
+References: 21
+------
+Automated Unit Test Improvement using Large Language Models at Meta
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240209171A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240209171A/EPRINT_PDF
+Citations: 27
+References: 18
+------
+X-lifecycle Learning for Cloud Incident Management using LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240403662G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240403662G/EPRINT_PDF
+Citations: 4
+References: 11
+------
+Chain-of-Thought Prompting of Large Language Models for Discovering and Fixing Software Vulnerabilities
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240217230N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240217230N/EPRINT_PDF
+Citations: 33
+References: 18
+------
+You Can REST Now: Automated REST API Documentation and Testing via LLM-Assisted Request Mutations
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240205102D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240205102D/EPRINT_PDF
+Citations: 8
+References: 15
+------
+Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240201386R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240201386R/EPRINT_PDF
+Citations: 30
+References: 19
+------
+Can ChatGPT Support Developers? An Empirical Evaluation of Large Language Models for Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240211702J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240211702J/EPRINT_PDF
+Citations: 8
+References: 15
+------
+Assured LLM-Based Software Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240204380A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240204380A/EPRINT_PDF
+Citations: 6
+References: 5
+------
+ECG: Augmenting Embedded Operating System Fuzzing via LLM-Based Corpus Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITCAD..43.4238Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITCAD..43.4238Z/PUB_HTML
+Citations: 1
+References: 11
+------
+LUNA: A Model-Based Universal Analysis Framework for Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50.1921S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50.1921S/PUB_HTML
+Citations: 2
+References: 88
+------
+LLMs for Test Input Generation for Semantic Caches
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240108138R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240108138R/EPRINT_PDF
+Citations: 6
+References: 5
+------
+An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240116186R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240116186R/EPRINT_PDF
+Citations: 9
+References: 7
+------
+Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240113810Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240113810Z/EPRINT_PDF
+Citations: 6
+References: 18
+------
+SPADE: Synthesizing Data Quality Assertions for Large Language Model Pipelines
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240103038S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240103038S/EPRINT_PDF
+Citations: 27
+References: 34
+------
+E&V: Prompting Large Language Models to Perform Static Analysis by Pseudo-code Execution and Verification
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231208477H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231208477H/EPRINT_PDF
+Citations: 15
+References: 36
+------
+Are We Testing or Being Tested? Exploring the Practical Applications of Large Language Models in Software Testing
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231204860S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231204860S/EPRINT_PDF
+Citations: 2
+References: 6
+------
+LPR: Large Language Models-Aided Program Reduction
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231213064Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231213064Z/EPRINT_PDF
+Citations: 4
+References: 9
+------
+Eywa: Automating Model Based Testing using LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231206875M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231206875M/EPRINT_PDF
+Citations: 6
+References: 9
+------
+A Survey on Large Language Models for Software Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231215223Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231215223Z/EPRINT_PDF
+Citations: 68
+References: 495
+------
+Testing learning-enabled cyber-physical systems with Large-Language Models: A Formal Approach
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231107377Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231107377Z/EPRINT_PDF
+References: 6
+------
+Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231110388Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231110388Z/EPRINT_PDF
+Citations: 1
+References: 11
+------
+Lessons from Building StackSpot AI: A Contextualized AI Coding Assistant
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231118450P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231118450P/EPRINT_PDF
+Citations: 2
+References: 16
+------
+Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231107989Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231107989Z/EPRINT_PDF
+Citations: 77
+References: 300
+------
+CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231006266D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231006266D/EPRINT_PDF
+Citations: 11
+References: 42
+------
+Large Language Models for Software Engineering: Survey and Open Problems
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231003533F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231003533F/EPRINT_PDF
+Citations: 161
+References: 120
+------
+LUNA: A Model-Based Universal Analysis Framework for Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231014211S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231014211S/EPRINT_PDF
+Citations: 2
+References: 84
+------
+Generative Artificial Intelligence for Software Engineering -- A Research Agenda
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231018648N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231018648N/EPRINT_PDF
+Citations: 39
+References: 70
+------
+Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231017903S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231017903S/EPRINT_PDF
+Citations: 12
+References: 42
+------
+When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230905520C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230905520C/EPRINT_PDF
+Citations: 42
+References: 17
+------
+Large Language Models for Software Engineering: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230810620H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230810620H/EPRINT_PDF
+Citations: 265
+References: 341
+------
+No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230504207Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230504207Y/EPRINT_PDF
+Citations: 113
+References: 17
+------
+Metamorphic Testing of Large Language Models for Natural Language Processing
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251102108C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251102108C/EPRINT_PDF
+References: 22
+------
+Clarifying Semantics of In-Context Examples for Unit Test Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251001994Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251001994Y/EPRINT_PDF
+References: 11
+------
+TREAT: A Code LLMs Trustworthiness / Reliability Evaluation and Testing Framework
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251017163G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251017163G/EPRINT_PDF
+References: 55
+------
+BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250925248Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250925248Z/EPRINT_PDF
+Citations: 2
+References: 17
+------
+From Evaluation to Enhancement: Large Language Models for Zero-Knowledge Proof Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250911708X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250911708X/EPRINT_PDF
+References: 36
+------
+LLM-Based Program Generation for Triggering Numerical Inconsistencies Across Compilers
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250900256W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250900256W/EPRINT_PDF
+References: 8
+------
+OptiHive: Ensemble Selection for LLM-Based Optimization via Statistical Modeling
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250802503B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250802503B/EPRINT_PDF
+References: 18
+------
+Experimental Analysis of Productive Interaction Strategy with ChatGPT: User Study on Function and Project-level Code Generation Tasks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250804125H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250804125H/EPRINT_PDF
+References: 6
+------
+Impact of Code Context and Prompting Strategies on Automated Unit Test Generation with Modern General-Purpose Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250714256W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250714256W/EPRINT_PDF
+References: 7
+------
+Resource-Efficient Automatic Software Vulnerability Assessment via Knowledge Distillation and Particle Swarm Optimization
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250802840G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250802840G/EPRINT_PDF
+References: 19
+------
+Seed&Steer: Guiding Large Language Models with Compilable Prefix and Branch Signals for Unit Test Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250717271Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250717271Z/EPRINT_PDF
+References: 5
+------
+A Framework for Creating Non-Regressive Test Cases via Branch Consistency Analysis Driven by Descriptions
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250607486Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250607486Z/EPRINT_PDF
+References: 11
+------
+Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250603136W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250603136W/EPRINT_PDF
+Citations: 18
+References: 34
+------
+SCGAgent: Recreating the Benefits of Reasoning Models for Secure Code Generation with Agentic Workflows
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250607313S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250607313S/EPRINT_PDF
+Citations: 1
+References: 22
+------
+PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250505584S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250505584S/EPRINT_PDF
+Citations: 1
+References: 10
+------
+A Tool for Generating Exceptional Behavior Tests With Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250522818Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250522818Z/EPRINT_PDF
+References: 6
+------
+BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250507360S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250507360S/EPRINT_PDF
+Citations: 1
+References: 32
+------
+HardTests: Synthesizing High-Quality Test Cases for LLM Coding
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250524098H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250524098H/EPRINT_PDF
+Citations: 4
+References: 36
+------
+Leveraging Large Language Models for Command Injection Vulnerability Analysis in Python: An Empirical Study on Popular Open-Source Projects
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250515088W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250515088W/EPRINT_PDF
+Citations: 1
+References: 28
+------
+LLM-assisted Mutation for Whitebox API Testing
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250405738L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250405738L/EPRINT_PDF
+Citations: 2
+References: 19
+------
+HoarePrompt: Structural Reasoning About Program Correctness in Natural Language
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250319599S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250319599S/EPRINT_PDF
+Citations: 1
+References: 33
+------
+PromptPex: Automatic Test Generation for Language Model Prompts
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250305070S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250305070S/EPRINT_PDF
+Citations: 3
+References: 9
+------
+Type-aware LLM-based Regression Test Generation for Python Programs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250314000L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250314000L/EPRINT_PDF
+Citations: 3
+References: 13
+------
+UnitCoder: Scalable Iterative Code Synthesis with Unit Test Guidance
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250211460M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250211460M/EPRINT_PDF
+Citations: 2
+References: 17
+------
+Automating a Complete Software Test Process Using LLMs: An Automotive Case Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250204008W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250204008W/EPRINT_PDF
+Citations: 4
+References: 7
+------
+A Contemporary Survey of Large Language Model Assisted Program Analysis
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250218474W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250218474W/EPRINT_PDF
+Citations: 8
+References: 72
+------
+Agentic Bug Reproduction for Effective Automated Program Repair at Google
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250201821C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250201821C/EPRINT_PDF
+Citations: 15
+References: 12
+------
+Combining Large Language Models with Static Analyzers for Code Review Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250206633J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250206633J/EPRINT_PDF
+Citations: 4
+References: 17
+------
+IntelliUnitGen: A Unit Test Case Generation Framework Based on the Integration of Static Analysis and Prompt Learning
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025IEEEA..1377760Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025IEEEA..1377760Y/PUB_HTML
+References: 21
+------
+ACFIX: Guiding LLMs With Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025ITSEn..51.2512Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025ITSEn..51.2512Z/PUB_HTML
+References: 22
+------
+How Should We Build A Benchmark? Revisiting 274 Code-Related Benchmarks For LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250110711C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250110711C/EPRINT_PDF
+Citations: 12
+References: 28
+------
+DeCon: Detecting Incorrect Assertions via Postconditions Generated by a Large Language Model
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250102901Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250102901Y/EPRINT_PDF
+Citations: 2
+References: 16
+------
+Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250107425Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250107425Y/EPRINT_PDF
+Citations: 2
+References: 17
+------
+Why Do Developers Engage with ChatGPT in Issue-Tracker? Investigating Usage and Reliance on ChatGPT-Generated Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241206757K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241206757K/EPRINT_PDF
+Citations: 2
+References: 15
+------
+A Large Language Model Approach to Identify Flakiness in C++ Projects
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241212340S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241212340S/EPRINT_PDF
+References: 11
+------
+LMUnit: Fine-grained Evaluation with Natural Language Unit Tests
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241213091S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241213091S/EPRINT_PDF
+Citations: 16
+References: 39
+------
+Toward Automated Validation of Language Model Synthesized Test Cases using Semantic Entropy
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241108254T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241108254T/EPRINT_PDF
+Citations: 5
+References: 36
+------
+Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241108243C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241108243C/EPRINT_PDF
+Citations: 2
+References: 72
+------
+AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241118015W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241118015W/EPRINT_PDF
+Citations: 10
+References: 29
+------
+LLMs: A Game-Changer for Software Engineers?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241100932A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241100932A/EPRINT_PDF
+Citations: 3
+References: 26
+------
+Do LLMs generate test oracles that capture the actual or the expected program behaviour?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv241021136K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv241021136K/EPRINT_PDF
+Citations: 3
+References: 10
+------
+On the Effectiveness of LLMs for Manual Test Verifications
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240912405L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240912405L/EPRINT_PDF
+Citations: 2
+References: 2
+------
+NaviQAte: Functionality-Guided Web Application Navigation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240910741S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240910741S/EPRINT_PDF
+Citations: 9
+References: 31
+------
+Vulnerability-Triggering Test Case Generation from Third-Party Libraries
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240916701G/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240916701G/EPRINT_PDF
+Citations: 3
+References: 7
+------
+Program Slicing in the Era of Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240912369K/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240912369K/EPRINT_PDF
+Citations: 4
+References: 21
+------
+Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240906416L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240906416L/EPRINT_PDF
+Citations: 3
+References: 40
+------
+B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240908692C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240908692C/EPRINT_PDF
+Citations: 1
+References: 13
+------
+CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240801733L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240801733L/EPRINT_PDF
+References: 20
+------
+MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240815815X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240815815X/EPRINT_PDF
+Citations: 2
+References: 17
+------
+HITS: High-coverage LLM-based Unit Test Generation via Method Slicing
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240811324W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240811324W/EPRINT_PDF
+Citations: 8
+References: 6
+------
+An Empirical Study on Challenges for LLM Application Developers
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240805002C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240805002C/EPRINT_PDF
+Citations: 8
+References: 15
+------
+A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240807846L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240807846L/EPRINT_PDF
+Citations: 5
+References: 5
+------
+LLM for Mobile: An Initial Roadmap
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240706573C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240706573C/EPRINT_PDF
+Citations: 3
+References: 62
+------
+SelfPiCo: Self-Guided Partial Code Execution with LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240716974X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240716974X/EPRINT_PDF
+Citations: 4
+References: 18
+------
+What's Wrong with Your Code Generated by Large Language Models? An Extensive Study
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240706153D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240706153D/EPRINT_PDF
+Citations: 57
+References: 58
+------
+Exploring the Evidence-Based SE Beliefs of Generative AI Tools
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240713900B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240713900B/EPRINT_PDF
+Citations: 1
+References: 6
+------
+A Roadmap for Software Testing in Open Collaborative Development Environments
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240605438W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240605438W/EPRINT_PDF
+Citations: 2
+References: 15
+------
+Beyond Functional Correctness: Investigating Coding Style Inconsistencies in Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240700456W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240700456W/EPRINT_PDF
+Citations: 17
+References: 69
+------
+CasModaTest: A Cascaded and Model-agnostic Self-directed Framework for Unit Test Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240615743N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240615743N/EPRINT_PDF
+Citations: 7
+References: 29
+------
+STALL+: Boosting LLM-based Repository-level Code Completion with Static Analysis
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240610018L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240610018L/EPRINT_PDF
+Citations: 26
+References: 35
+------
+Large-scale, Independent and Comprehensive study of the power of LLMs for test case generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240700225O/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240700225O/EPRINT_PDF
+Citations: 21
+References: 24
+------
+The Future of Software Engineering in an AI-Driven World
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240607737T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240607737T/EPRINT_PDF
+Citations: 5
+References: 7
+------
+On the Evaluation of Large Language Models in Unit Test Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240618181Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240618181Y/EPRINT_PDF
+Citations: 17
+References: 34
+------
+Identifying Performance-Sensitive Configurations in Software Systems through Code Analysis with LLM Agents
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240612806W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240612806W/EPRINT_PDF
+Citations: 3
+References: 21
+------
+TESTEVAL: Benchmarking Large Language Models for Test Case Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240604531W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240604531W/EPRINT_PDF
+Citations: 29
+References: 20
+------
+Contextual API Completion for Unseen Repositories Using LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240504600N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240504600N/EPRINT_PDF
+Citations: 8
+References: 23
+------
+exLong: Generating Exceptional Behavior Tests with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240514619Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240514619Z/EPRINT_PDF
+Citations: 4
+References: 7
+------
+Peer-aided Repairer: Empowering Large Language Models to Repair Advanced Student Assignments
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240401754Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240401754Z/EPRINT_PDF
+Citations: 4
+References: 18
+------
+LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240410304L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240410304L/EPRINT_PDF
+Citations: 37
+References: 7
+------
+Exploring and Unleashing the Power of Large Language Models in Automated Code Translation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240414646Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240414646Y/EPRINT_PDF
+Citations: 12
+References: 14
+------
+Advancing Code Coverage: Incorporating Program Analysis with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240404966Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240404966Y/EPRINT_PDF
+Citations: 26
+References: 19
+------
+Exploring and Evaluating Hallucinations in LLM-Powered Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240400971L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240400971L/EPRINT_PDF
+Citations: 164
+References: 18
+------
+S3LLM: Large-Scale Scientific Software Understanding with LLMs using Source, Metadata, and Document
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240310588S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240310588S/EPRINT_PDF
+Citations: 2
+References: 8
+------
+CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240319287Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240319287Z/EPRINT_PDF
+Citations: 5
+References: 29
+------
+ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240306838Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240306838Z/EPRINT_PDF
+Citations: 22
+References: 14
+------
+SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240315852L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240315852L/EPRINT_PDF
+Citations: 63
+References: 28
+------
+LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240307974J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240307974J/EPRINT_PDF
+Citations: 557
+References: 66
+------
+Enhancing Large Language Models for Text-to-Testcase Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240211910A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240211910A/EPRINT_PDF
+Citations: 7
+References: 25
+------
+Automated Unit Test Improvement using Large Language Models at Meta
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240209171A/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240209171A/EPRINT_PDF
+Citations: 27
+References: 18
+------
+Software Testing With Large Language Models: Survey, Landscape, and Vision
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50..911W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50..911W/PUB_HTML
+Citations: 14
+References: 86
+------
+LLM-Based Edge Intelligence: A Comprehensive Survey on Architectures, Applications, Security and Trustworthiness
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024IOJCS...5.5799F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024IOJCS...5.5799F/PUB_HTML
+Citations: 2
+References: 197
+------
+ECG: Augmenting Embedded Operating System Fuzzing via LLM-Based Corpus Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITCAD..43.4238Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITCAD..43.4238Z/PUB_HTML
+Citations: 1
+References: 11
+------
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50.1340T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50.1340T/PUB_HTML
+Citations: 2
+References: 13
+------
+PyTester: Deep Reinforcement Learning for Text-to-Testcase Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240107576T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240107576T/EPRINT_PDF
+Citations: 6
+References: 26
+------
+Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240106391W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240106391W/EPRINT_PDF
+Citations: 35
+References: 31
+------
+Code-Aware Prompting: A study of Coverage Guided Test Generation in Regression Setting using LLM
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240200097R/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240200097R/EPRINT_PDF
+Citations: 16
+References: 16
+------
+Eywa: Automating Model Based Testing using LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231206875M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231206875M/EPRINT_PDF
+Citations: 6
+References: 9
+------
+A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231202003Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231202003Y/EPRINT_PDF
+Citations: 58
+References: 154
+------
+A Survey on Large Language Models for Software Engineering
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231215223Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231215223Z/EPRINT_PDF
+Citations: 68
+References: 495
+------
+Magicoder: Empowering Code Generation with OSS-Instruct
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231202120W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231202120W/EPRINT_PDF
+Citations: 245
+References: 8
+------
+KernelGPT: Enhanced Kernel Fuzzing via Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240100563Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240100563Y/EPRINT_PDF
+Citations: 22
+References: 15
+------
+Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231210448D/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231210448D/EPRINT_PDF
+Citations: 7
+References: 31
+------
+Unit Test Generation using Generative AI : A Comparative Performance Analysis of Autogeneration Tools
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231210622B/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231210622B/EPRINT_PDF
+Citations: 7
+References: 11
+------
+CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231108588Y/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231108588Y/EPRINT_PDF
+Citations: 39
+References: 31
+------
+The Transformative Influence of LLMs on Software Development & Developer Productivity
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231116429J/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231116429J/EPRINT_PDF
+Citations: 4
+References: 6
+------
+Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231107989Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231107989Z/EPRINT_PDF
+Citations: 77
+References: 300
+------
+Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231006320P/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231006320P/EPRINT_PDF
+Citations: 5
+References: 8
+------
+Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231015780L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231015780L/EPRINT_PDF
+Citations: 11
+References: 13
+------
+A Critical Review of Large Language Model on Software Engineering: An Example from ChatGPT and Automated Program Repair
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231008879Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231008879Z/EPRINT_PDF
+Citations: 55
+References: 11
+------
+A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231012321S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231012321S/EPRINT_PDF
+Citations: 10
+References: 320
+------
+Large Language Models for Software Engineering: Survey and Open Problems
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231003533F/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231003533F/EPRINT_PDF
+Citations: 161
+References: 120
+------
+Generative Artificial Intelligence for Software Engineering -- A Research Agenda
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231018648N/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231018648N/EPRINT_PDF
+Citations: 39
+References: 70
+------
+DAnTE: a taxonomy for the automation degree of software engineering tasks
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230914903M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230914903M/EPRINT_PDF
+References: 1
+------
+Prompting Code Interpreter to Write Better Unit Tests on Quixbugs Functions
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv231000483L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv231000483L/EPRINT_PDF
+Citations: 7
+References: 7
+------
+Redefining Qualitative Analysis in the AI Era: Utilizing ChatGPT for Efficient Thematic Analysis
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230910771Z/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230910771Z/EPRINT_PDF
+Citations: 34
+References: 13
+------
+Large Language Models for Software Engineering: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230810620H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230810620H/EPRINT_PDF
+Citations: 265
+References: 341
+------
+Domain Adaptation for Code Model-based Unit Test Case Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230808033S/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230808033S/EPRINT_PDF
+Citations: 16
+References: 7
+------
+Fuzz4All: Universal Fuzzing with Large Language Models
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230804748X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230804748X/EPRINT_PDF
+Citations: 63
+References: 28
+------
+The potential of LLMs for coding with low-resource and domain-specific programming languages
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230713018T/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230713018T/EPRINT_PDF
+Citations: 15
+References: 6
+------
+Software Testing with Large Language Models: Survey, Landscape, and Vision
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230707221W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230707221W/EPRINT_PDF
+Citations: 58
+References: 76
+------
+How Effective are Large Language Models in Generating Software Specifications?
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230603324X/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230603324X/EPRINT_PDF
+Citations: 31
+References: 27
+------
+ChatUniTest: A Framework for LLM-Based Test Generation
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230504764C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230504764C/EPRINT_PDF
+Citations: 70
+References: 11
+------
+Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities
+ABS Link: https://ui.adsabs.harvard.edu/abs/2022arXiv221210017M/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2022arXiv221210017M/EPRINT_PDF
+Citations: 4
+References: 39
+------
+LLM-assisted Mutation for Whitebox API Testing
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv250405738L/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv250405738L/EPRINT_PDF
+Citations: 2
+References: 19
+------
+Mokav: Execution-driven Differential Testing with LLMs
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024arXiv240610375E/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024arXiv240610375E/EPRINT_PDF
+Citations: 5
+References: 25
+------
+Software Testing With Large Language Models: Survey, Landscape, and Vision
+ABS Link: https://ui.adsabs.harvard.edu/abs/2024ITSEn..50..911W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2024ITSEn..50..911W/PUB_HTML
+Citations: 14
+References: 86
+------
+Large Language Models for Software Engineering: A Systematic Literature Review
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230810620H/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230810620H/EPRINT_PDF
+Citations: 265
+References: 341
+------
+Software Testing with Large Language Models: Survey, Landscape, and Vision
+ABS Link: https://ui.adsabs.harvard.edu/abs/2023arXiv230707221W/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2023arXiv230707221W/EPRINT_PDF
+Citations: 58
+References: 76
+------
+Validating Formal Specifications with LLM-generated Test Cases
+ABS Link: https://ui.adsabs.harvard.edu/abs/2025arXiv251023350C/abstract
+Arxiv Link: https://ui.adsabs.harvard.edu//link_gateway/2025arXiv251023350C/EPRINT_PDF
+References: 4
+------

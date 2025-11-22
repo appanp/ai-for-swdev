@@ -4,8 +4,11 @@
 ### TODOs
 
 * [x] Add links to GS citations wherever it is missing
-* [ ] Write script to extract the citatons from adsabd.harvard.edu links below.
+* [x] Write a JS function to extract the citations from adsabd.harvard.edu links below.
     - There are around 500+ citations from absads.harvard.edu site & there could be clashes.
+* [ ] Write a JS function to extract results of search from arxic such as [this one](https://arxiv.org/search/?searchtype=author&query=Ganesh%2C+V&abstracts=show&size=100&order=-announced_date_first)
+* [ ] Get the consolidated list of citations from the root papers listed below.
+    - There should be around 500+ of them.
 * [ ] Come up with a classification of papers 
     * Create a Jupyter notebook to cluster the papers
 
